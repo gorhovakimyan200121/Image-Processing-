@@ -7,8 +7,8 @@ namespace HW2
     {
         static void Main(string[] args)
         {
-            string folderPath = @"C:\Users\gorho\Desktop\Rafik hm2\face";
-            string excelPath = @"C:\Users\gorho\Desktop\Rafik hm2\RGB Rafik 6.xlsx";
+            string folderPath = @"C:\Users\gorho\Desktop\Gor Hovakimyan hw2\face";
+            string excelPath = @"C:\Users\gorho\Desktop\Gor Hovakimyan hw2\RGB Gor 2.xlsx";
 
             var colorsSet = new SortedSet<int>();
 
